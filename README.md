@@ -1,2 +1,2 @@
 # instagram
-just an project for fun
+Check your friends chats and messages
